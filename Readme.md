@@ -41,3 +41,21 @@
 >   \_\_
 
 <br>
+
+---
+
+### Sección 3
+
+> [!NOTE]
+>
+> **Funciones en TS**
+>
+> - Declaraciones básicas de funciones.
+> - Parámetros obligatorios.
+> - Parámetros opcionales.
+> - Parámetros por defecto.
+> - Parámetros REST.
+> - Tipo de datos "Function".
+>   \_\_
+
+<br>
