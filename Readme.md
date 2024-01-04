@@ -2,7 +2,7 @@
 
 ---
 
-!### Sección 1
+### Sección 1
 
 > [!NOTE]
 >
@@ -17,5 +17,27 @@
 > - _tsc --init genera el tsconfig_
 >
 > - _tsc -w pone a typescript en modo observador_
+
+<br>
+
+---
+
+### Sección 2
+
+> [!NOTE]
+>
+> **Tipos de datos**
+>
+> - Booleanos.
+> - Números.
+> - Strings.
+> - Tipo Any.
+> - Arreglos.
+> - Tuplas.
+> - Enumeraciones
+> - Retorno void
+> - Null
+> - Undefined
+>   \_\_
 
 <br>
