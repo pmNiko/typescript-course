@@ -59,3 +59,21 @@
 >   \_\_
 
 <br>
+
+---
+
+### Sección 4
+
+> [!NOTE]
+>
+> **Objetos en TypeScript**
+>
+> - Objetos básicos
+> - Crear objetos con tipos específicos
+> - Crear métodos dentro de objetos
+> - Tipos personalizados
+> - Crear variables que soporten varios tipos a la vez
+> - Comprobar el tipo de un objeto
+>   \_\_
+
+<br>
