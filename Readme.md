@@ -77,3 +77,22 @@
 >   \_\_
 
 <br>
+
+---
+
+### Sección 5
+
+> [!NOTE]
+>
+> **depuración de errores **
+>
+> - ¿Por qué siempre compila a JavaScript?
+> - Para que nos puede servir el archivo de configuración de TypeScript
+> - Depuración de errores directamente a nuestros archivos de TypeScript
+> - Removeremos todos los comentarios en nuestro archivo de producción
+> - Restringiremos al compilador que sólo vea ciertos archivos o carpetas
+> - Crearemos un archivo final de salida
+> - Aprenderemos a cambiar la version de JavaScript de salida
+>   \_\_
+
+<br>
