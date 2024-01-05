@@ -84,7 +84,7 @@
 
 > [!NOTE]
 >
-> **depuración de errores **
+> **depuración de errores**
 >
 > - ¿Por qué siempre compila a JavaScript?
 > - Para que nos puede servir el archivo de configuración de TypeScript
@@ -93,6 +93,27 @@
 > - Restringiremos al compilador que sólo vea ciertos archivos o carpetas
 > - Crearemos un archivo final de salida
 > - Aprenderemos a cambiar la version de JavaScript de salida
+>   \_\_
+
+<br>
+
+---
+
+### Sección 6
+
+> [!NOTE]
+>
+> **ES2015 o ECMAScript 6**
+>
+> - Diferencia entre declarar variables con VAR y con LET
+> - Uso de constantes
+> - Plantillas literales
+> - Funciones de flecha
+> - Destructuración de objetos
+> - Destructuración de Arreglos
+> - Nuevo ciclo, el FOR OF
+> - Conocer sobre la programación orientada a objetos
+> - Clases
 >   \_\_
 
 <br>
