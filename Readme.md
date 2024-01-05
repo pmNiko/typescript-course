@@ -158,3 +158,20 @@
 > > \_\_
 
 <br>
+
+### Sección 8
+
+> [!NOTE]
+>
+> **Interfaces**
+>
+> - ¿Por qué es necesario una interfaz?
+> - ¿Cómo creamos una interfaz básica?
+> - Crear propiedades opcionales
+> - Crear métodos
+> - Asignar interfaces a las clases
+>   \_\_
+
+<br>
+
+---
