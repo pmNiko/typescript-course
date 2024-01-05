@@ -117,3 +117,44 @@
 >   \_\_
 
 <br>
+
+---
+
+### Sección 7
+
+> [!NOTE]
+>
+> **Clases**
+>
+> Crear clases en TypeScript
+> Constructores
+>
+> Accesibilidad de las propiedades:
+>
+> - Públicas
+> - Privadas
+> - Protegidas
+>
+> Métodos de las clases que pueden ser:
+>
+> - Públicos
+> - Privados
+> - Protegidos
+>
+> Herencia
+>
+> Llamar funciones del padre, desde los hijos
+>
+> Getters
+>
+> Setters
+>
+> Métodos y propiedades estáticas
+>
+> Clases abstractas
+>
+> Constructores privados.
+>
+> > \_\_
+
+<br>
