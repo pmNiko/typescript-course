@@ -58,7 +58,7 @@
     edad: number;
     sexo: string;
     estadoCivil: string;
-    // imprimirBio(): void
+    imprimirBio(): void;
   }
   /*
     propiedades:
@@ -69,8 +69,11 @@
       - imprimirBio(): void // en consola una breve descripcion.
   */
   class Persona implements Person {
-    nombre: string;
-    edad: number;
-    sexo: string;
+    public nombre: string;
+    public edad: number;
+    public sexo: string;
+    public estadoCivil: string;
+
+    imprimirBio(): void {}
   }
 })();
