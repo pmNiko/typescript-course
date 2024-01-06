@@ -175,3 +175,21 @@
 <br>
 
 ---
+
+### Sección 9
+
+> [!NOTE]
+>
+> **Namespaces**
+>
+> - Explicación del ¿por qué son necesarios los namespaces?
+> - Crear namespaces
+> - Multiples namespaces en un mismo proyecto
+> - Crear métodos
+> - Importar namespaces
+> - Problemática que se puede presentar utilizando un namespace.
+>   \_\_
+
+<br>
+
+---
