@@ -193,3 +193,18 @@
 <br>
 
 ---
+
+### Sección 10
+
+> [!NOTE]
+>
+> **Genericos**
+>
+> - Uso de los genéricos
+> - Funciones genéricas
+> - Ejemplos prácticos sobre los genéricos
+> - Arreglos genéricos
+> - Clases genéricas
+>   \_\_
+
+<br>

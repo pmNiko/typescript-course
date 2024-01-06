@@ -1,9 +1,6 @@
-import Hero2, { Hero } from "./classes/Hero";
-// import { powers } from "./data/powers";
+import { getPokemon } from "./generics/get-pokemon";
 
-const superman = new Hero("Superman", 1, 34);
-const ironman = new Hero2("Ironman", 2, 30);
-
-console.log(superman.power);
-console.log(ironman.power);
-// console.log(powers);
+getPokemon(1)
+  .then((pokemon) => console.log(pokemon.sprites.front_default))
+  .catch((err) => console.error(err))
+  .finally(() => console.log("End promise"));
