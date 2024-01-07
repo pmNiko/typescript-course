@@ -1,6 +1,8 @@
-import { getPokemon } from "./generics/get-pokemon";
+import { Pokemon } from "./decorators/pokemon";
 
-getPokemon(1)
-  .then((pokemon) => console.log(pokemon.sprites.front_default))
-  .catch((err) => console.error(err))
-  .finally(() => console.log("End promise"));
+const charmander = new Pokemon("Charmander");
+
+// (Pokemon.prototype as any).fly = true;
+// console.log(charmander);
+
+charmander.savePokemon(801);
