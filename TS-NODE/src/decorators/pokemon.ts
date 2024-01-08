@@ -28,14 +28,37 @@ function CheckValidPokemonId() {
   };
 }
 
-@blockPrototype
-@printToConsoleConditional(true)
+function readonly(isWritable: boolean = true): Function {
+  return function (target: any, propertyKey: string) {
+    const descriptor: PropertyDescriptor = {
+      get() {
+        console.log(this);
+
+        return "Nikolas";
+      },
+      set(this, val) {
+        // console.log(this, val);
+        Object.defineProperty(this, propertyKey, {
+          value: val,
+          writable: !isWritable,
+          enumerable: false,
+        });
+      },
+    };
+
+    return descriptor;
+  };
+}
+
+// @blockPrototype
+// @printToConsoleConditional(true)
 export class Pokemon {
+  @readonly(true)
   public publicApi: string = "https://pokeapi.co/";
 
   constructor(public name: string) {}
 
-  @CheckValidPokemonId()
+  // @CheckValidPokemonId()
   savePokemon(id: number) {
     console.log(`Pokemon saved to ${id}`);
   }
