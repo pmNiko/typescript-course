@@ -229,3 +229,18 @@
 >   \_\_
 
 <br>
+
+---
+
+### Sección 12
+
+> [!NOTE]
+>
+> **Librerias inexistentes en TS**
+>
+> - Configuración de un proyecto utilizando el package.json y realizar instalaciones con node.
+> - Utilizar archivos de definiciones "\*.d.ts" o Typings
+> - Agregar definiciones de archivos mediante node
+>   \_\_
+
+<br>
